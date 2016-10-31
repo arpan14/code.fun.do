@@ -1,3 +1,3 @@
 # code.fun.do
-Microsoft Hackathon
-Recommendation Engine
+Microsoft Hackathon.
+Reviving the choice engine and making all code open-source.
